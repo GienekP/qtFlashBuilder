@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtFlashBuilder.png</file>
+    </qresource>
+</RCC>
